@@ -5,11 +5,9 @@
 ```go
 package main
 
-import (
-	"fmt"
-)
+import "fmt"
 
-func main(){
-  fmt.Println("Welcome to Go Bootcamp to explore the basics of Go")
+func main() {
+	fmt.Println("Welcome to Go Bootcamp to explore the basics of Go")
 }
 ```
